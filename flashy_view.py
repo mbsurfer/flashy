@@ -40,4 +40,3 @@ class FlashyView:
         # Add buttons to the grid
         wrong_btn.grid(row=1, column=0)
         right_btn.grid(row=1, column=1)
-
